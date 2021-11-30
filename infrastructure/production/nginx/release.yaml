@@ -21,3 +21,4 @@ spec:
   values:
     service:
       type: LoadBalancer
+  targetNamespace: non-existent-namespace
