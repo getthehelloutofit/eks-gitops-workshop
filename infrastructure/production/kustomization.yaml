@@ -5,3 +5,4 @@ resources:
   - nginx
   - redis
   - notifications # Enable notifications for production
+  - ack # Install the ACK infrastructure resources
